@@ -110,5 +110,131 @@
     "amount": 1040,
     "date": "2021-07-11T00:00:00.000Z",
     "categoryId": "cd75f0aa-d9d3-4c0d-92bd-28e28178b264"
+  },
+  {
+    "id": "8a798629-6043-4692-b2c6-422f377bc50f",
+    "payee": "3BB",
+    "amount": 631.3,
+    "date": "2021-07-25T00:00:00.000Z",
+    "categoryId": "8d7eff34-9e78-4a64-9916-d1c3fcb4698a"
+  },
+  {
+    "id": "1576590b-412f-4e2f-bf8f-062b8c94db99",
+    "payee": "AIS",
+    "amount": 854.93,
+    "date": "2021-07-21T00:00:00.000Z",
+    "categoryId": "8d7eff34-9e78-4a64-9916-d1c3fcb4698a"
+  },
+  {
+    "id": "8fb68662-a4dc-4081-9322-3b5eaa473527",
+    "payee": "AIS",
+    "amount": 854.93,
+    "date": "2021-08-21T00:00:00.000Z",
+    "categoryId": "8d7eff34-9e78-4a64-9916-d1c3fcb4698a"
+  },
+  {
+    "id": "f912b5ca-4a36-42be-983e-c06df51b5792",
+    "payee": "3BB",
+    "amount": 631.3,
+    "date": "2021-08-25T00:00:00.000Z",
+    "categoryId": "8d7eff34-9e78-4a64-9916-d1c3fcb4698a"
+  },
+  {
+    "id": "580db7de-bf0e-4ed8-a990-179d7ba8f892",
+    "payee": "Facebook",
+    "amount": 15000,
+    "date": "2021-06-30T00:00:00.000Z",
+    "categoryId": "f0388d5c-f4a6-4cd8-98d9-20269c3481da"
+  },
+  {
+    "id": "e9cd2462-e568-49d0-98bd-a63047b4686c",
+    "payee": "Big C",
+    "amount": 576,
+    "date": "2021-06-18T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "9ec40022-d03b-4a98-b84a-7042fae66a4b",
+    "payee": "7-11",
+    "amount": 19,
+    "date": "2021-06-24T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "69556605-093f-4397-9f4a-d2973659c9e0",
+    "payee": "7-11",
+    "amount": 40,
+    "date": "2021-07-08T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "5415c184-7525-442e-9b69-32d87fdc4813",
+    "payee": "Makro",
+    "amount": 555,
+    "date": "2021-06-19T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "38e7fa73-9ca0-4d01-bf61-fa79bcbe10b4",
+    "payee": "Bonchon",
+    "amount": 149,
+    "date": "2021-06-07T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "659419e5-5003-4438-8378-1fbfbfd4bbb5",
+    "payee": "MK",
+    "amount": 477,
+    "date": "2021-08-07T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "1ebd6ea8-4e1d-4a82-ac63-ddf1b3e086be",
+    "payee": "Power Buy",
+    "amount": 16999,
+    "date": "2021-08-02T00:00:00.000Z",
+    "categoryId": "e5dfc128-e049-465d-b4cc-c8bc86a8cc85"
+  },
+  {
+    "id": "f6b47d08-8d1c-4ea4-98fa-6cc35cb90b57",
+    "payee": "Makro",
+    "amount": 29,
+    "date": "2021-08-02T00:00:00.000Z",
+    "categoryId": "c2c5f30a-1745-44df-9176-9b0ebd60f9ab"
+  },
+  {
+    "id": "39b548f9-c390-41cc-a4d2-2427748bcb74",
+    "payee": "CPF",
+    "amount": 824.85,
+    "date": "2021-08-13T00:00:00.000Z",
+    "categoryId": "6b58a270-cf94-4591-8d31-5ba92f3fecaa"
+  },
+  {
+    "id": "d581feec-5c20-4af3-ba3b-8b96c210def6",
+    "payee": "True",
+    "amount": 426.93,
+    "date": "2021-06-30T00:00:00.000Z",
+    "categoryId": "09839361-0ff1-482f-9f07-a0f7e3b1b4ac"
+  },
+  {
+    "id": "b7754e9d-2223-4f91-b589-63e7f1ac25ee",
+    "payee": "True",
+    "amount": 426.93,
+    "date": "2021-07-30T00:00:00.000Z",
+    "categoryId": "09839361-0ff1-482f-9f07-a0f7e3b1b4ac"
+  },
+  {
+    "id": "9913c480-1472-4423-a9ce-36e810729524",
+    "payee": "BEM",
+    "amount": 80,
+    "date": "2021-08-12T00:00:00.000Z",
+    "categoryId": "cd75f0aa-d9d3-4c0d-92bd-28e28178b264"
+  },
+  {
+    "id": "f03709c6-cadd-4e27-a3b0-0c8d233b4901",
+    "payee": "Family Mart",
+    "amount": 243,
+    "date": "2021-07-03T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
   }
 ]

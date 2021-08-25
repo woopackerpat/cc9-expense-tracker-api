@@ -61,3 +61,49 @@ exports.createTransaction = async (req, res, next) => {
     next(err);
   }
 };
+
+exports.updateTransaction = async (req, res, next) => {
+  try {
+    const { id } = req.params;
+    const { payee, categoryId, amount, date, comment } = req.body;
+
+    if (!payee || typeof payee !== 'string' || !payee.trim())
+      return res.status(400).json({ message: 'payee is required and must be a string' });
+
+    if (!categoryId) return res.status(400).json({ message: 'category id is required' });
+
+    if (typeof amount !== 'number' || isNaN(amount) || amount <= 0)
+      return res.status(400).json({ message: 'amount is required, must be a number and greater than zero' });
+
+    if (!date || isNaN(new Date(date)))
+      return res.status(400).json({ message: 'date is required and must be a valid date format' });
+
+    const category = await categoryService.findById(categoryId);
+    if (!category) return res.status(400).json({ message: 'category with this id is not found' });
+
+    const transaction = await transactionService.updateById(id, {
+      payee,
+      amount,
+      date: new Date(date),
+      comment,
+      categoryId
+    });
+    if (!transaction) return res.status(400).json({ message: 'transaction with this id is not found' });
+    transaction.category = category;
+    delete transaction.categoryId;
+    res.status(200).json({ transaction });
+  } catch (err) {
+    next(err);
+  }
+};
+
+exports.deleteTransaction = async (req, res, next) => {
+  try {
+    const { id } = req.params;
+    const result = await transactionService.deleteById(id);
+    if (!result) return res.status(400).json({ message: 'transaction with this id is not found' });
+    res.status(204).json();
+  } catch (err) {
+    next(err);
+  }
+};
