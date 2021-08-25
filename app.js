@@ -3,6 +3,7 @@ const express = require('express');
 const cors = require('cors');
 
 const categoryRoute = require('./routes/categoryRoute');
+const transactionRoute = require('./routes/transactionRoute');
 
 const app = express();
 
@@ -10,6 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 app.use('/categories', categoryRoute);
+app.use('/transactions', transactionRoute);
 
 app.use((req, res) => {
   res.status(404).json({ message: 'resource not found on this server' });

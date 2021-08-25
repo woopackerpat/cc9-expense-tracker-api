@@ -2,9 +2,9 @@ const categoryService = require('../services/categoryService');
 
 exports.getCategories = async (req, res, next) => {
   try {
-    const result = await categoryService.findAll();
+    const categories = await categoryService.findAll();
 
-    const categories = result.sort((a, b) => {
+    categories.sort((a, b) => {
       if (a.name.toUpperCase() > b.name.toUpperCase()) {
         return 1;
       } else if (a.name.toUpperCase() < b.name.toUpperCase()) {

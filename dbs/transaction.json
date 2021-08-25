@@ -1,0 +1,114 @@
+[
+  {
+    "id": "0373fdd4-dd7c-4da3-a79e-c64801ceaa26",
+    "payee": "KFC",
+    "amount": 327,
+    "date": "2021-08-01T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "f8b25d76-fe36-4155-a548-7d455168650b",
+    "payee": "7-11",
+    "amount": 50,
+    "date": "2021-08-01T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "5cdca34f-c832-4127-86e6-d6956b133fde",
+    "payee": "CIMB",
+    "amount": 72.19,
+    "date": "2021-08-01T00:00:00.000Z",
+    "categoryId": "40ed2e64-0ebf-478b-bd44-7d8f5ac79df6"
+  },
+  {
+    "id": "9443fbc9-503a-4386-989c-73df0a18e026",
+    "payee": "Pizza Company",
+    "amount": 489,
+    "date": "2021-08-05T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "471018b8-e018-4f5b-a9e4-7e93edb8b934",
+    "payee": "MEA",
+    "amount": 798.88,
+    "date": "2021-08-23T00:00:00.000Z",
+    "categoryId": "8d7eff34-9e78-4a64-9916-d1c3fcb4698a"
+  },
+  {
+    "id": "4267d630-32b7-49e1-8c84-750c4d190c87",
+    "payee": "Facebook",
+    "amount": 15000,
+    "date": "2021-07-31T00:00:00.000Z",
+    "categoryId": "f0388d5c-f4a6-4cd8-98d9-20269c3481da"
+  },
+  {
+    "id": "a426db4d-396b-44f9-bfff-7b30e616672c",
+    "payee": "Shopee",
+    "amount": 331,
+    "date": "2021-07-27T00:00:00.000Z",
+    "categoryId": "e5dfc128-e049-465d-b4cc-c8bc86a8cc85"
+  },
+  {
+    "id": "6bd733cb-394d-4487-89a4-82f58ad4f1de",
+    "payee": "Tesco Lotus",
+    "amount": 99,
+    "date": "2021-08-19T00:00:00.000Z",
+    "categoryId": "e5dfc128-e049-465d-b4cc-c8bc86a8cc85"
+  },
+  {
+    "id": "5747c1e5-8c18-4e42-8b03-2cf4201380c9",
+    "payee": "Tops",
+    "amount": 26,
+    "date": "2021-08-14T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "4668cf85-5fc7-4865-bf05-9e7bf605c423",
+    "payee": "7-11",
+    "amount": 216,
+    "date": "2021-08-07T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "169347dd-2d02-4fe4-a38f-d2ef9af86728",
+    "payee": "Tesco Lotus",
+    "amount": 131,
+    "date": "2021-07-19T00:00:00.000Z",
+    "categoryId": "a3431dae-4929-413a-bee4-b6f6107b5416"
+  },
+  {
+    "id": "4416927c-d57f-440c-a9a3-e20e18b4e9c2",
+    "payee": "SCG",
+    "amount": 741.71,
+    "date": "2021-07-30T00:00:00.000Z",
+    "categoryId": "6b58a270-cf94-4591-8d31-5ba92f3fecaa"
+  },
+  {
+    "id": "b3c4adec-e5d6-4590-841e-47301c63bb26",
+    "payee": "SF Cinema",
+    "amount": 150,
+    "date": "2021-08-12T00:00:00.000Z",
+    "categoryId": "09839361-0ff1-482f-9f07-a0f7e3b1b4ac"
+  },
+  {
+    "id": "8b8f3d4e-0362-461b-b048-e0fd33034129",
+    "payee": "PTT",
+    "amount": 1000,
+    "date": "2021-07-22T00:00:00.000Z",
+    "categoryId": "64817558-2d7b-4af3-bf50-6e122dac4064"
+  },
+  {
+    "id": "2b69c351-b832-4acf-9d33-9e270f0e7861",
+    "payee": "PTT",
+    "amount": 1000,
+    "date": "2021-08-10T00:00:00.000Z",
+    "categoryId": "64817558-2d7b-4af3-bf50-6e122dac4064"
+  },
+  {
+    "id": "5e7026c4-14e2-4de3-b473-31b26ec6964d",
+    "payee": "BTS",
+    "amount": 1040,
+    "date": "2021-07-11T00:00:00.000Z",
+    "categoryId": "cd75f0aa-d9d3-4c0d-92bd-28e28178b264"
+  }
+]
